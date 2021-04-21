@@ -1,7 +1,9 @@
 
 App Demo Video
 
-https://user-images.githubusercontent.com/73896596/115613052-93860880-a309-11eb-86ca-b9ed085dde3a.mp4
+https://user-images.githubusercontent.com/73896596/115613575-2de64c00-a30a-11eb-978a-becf94114e2d.mp4
+
+
 App Preview
 ![Screenshot (959)](https://user-images.githubusercontent.com/73896596/115613165-b44e5e00-a309-11eb-824e-b0d0afcfa763.png)
 Generate Suduko
