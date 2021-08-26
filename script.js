@@ -124,7 +124,6 @@ function isPossible(board, sr, sc, val) {
 
 }
 
-//to be completed by student
 function solveSudokuHelper(board, sr, sc) {
     if (sr == 9) {
         changeBoard(board);
